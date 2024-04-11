@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f124997d-6a01-4783-8f94-008d4b3802c6",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Senior Management",
+    "description": "Skills relevant to leadership and high-level management decisions."
+  },
+  {
+    "id": "d9575a7a-e947-4925-a90e-e1a6545357f4",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Cybersecurity",
+    "description": "Skills related to protecting information from unauthorized access and cyber threats."
+  },
+  {
+    "id": "2f14acf4-fa40-44cb-b9ff-057908d71be9",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Software Engineering",
+    "description": "Skills in designing, developing, testing, and evaluating software systems."
+  },
+  {
+    "id": "4d61a8a9-7086-4595-8a2b-70a51c3cfa62",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Project Management",
+    "description": "Skills required for effectively managing projects and resources."
+  },
+  {
+    "id": "f70a5b29-aa9d-49ba-8a6b-8afb2cdd2423",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Data Science",
+    "description": "Skills for analyzing complex data to extract actionable insights."
+  },
+  {
+    "id": "0ebc2f86-7dd3-45ee-9b57-4d137ff84279",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "DevOps",
+    "description": "Skills for collaboration between software development and IT operations."
+  },
+  {
+    "id": "9c7052e1-6aae-4a4e-a37e-e78aabd94c0d",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Cloud Computing",
+    "description": "Skills related to the delivery of computing services over the internet."
+  },
+  {
+    "id": "398ef53f-0cc2-4d2d-b9c7-517b2e6217ee",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Front End Technologies",
+    "description": "Skills in client-side development, such as using Angular, React JS, and Vue."
+  },
+  {
+    "id": "3e7cd981-0bc4-47f4-83cf-a564a3b377f2",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Server Side Technologies",
+    "description": "Skills in server-side development, such as Node JS, Java Spring Boot, .NET, Laravel, Adobe Cold fusion."
+  },
+  {
+    "id": "381b77b9-b215-4444-8261-871c28f1dfd8",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Database Technologies",
+    "description": "Skills related to database management, such as SQL."
+  },
+  {
+    "id": "6d8a98b0-162e-4940-ac80-5f10a912caa3",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Business Intelligence",
+    "description": "Skills in BI tools like Apache Superset, Power BI, Tableau, Looker."
+  },
+  {
+    "id": "16474c25-6ca9-46e8-b28c-9a30fb3ee081",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "User Interface Design",
+    "description": "Skills in UI design and development, such as Wordpress, Web Designing (HTML, CSS, SCSS), Javascript (ES6)."
+  },
+  {
+    "id": "ad2fcda8-7680-43fd-9bbd-988128acee6a",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Mobile Development",
+    "description": "Skills in mobile app development, such as Flutter and React Native."
+  },
+  {
+    "id": "5769d128-a655-4a1b-8854-e5c87c6f6249",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Web Scraping",
+    "description": "Skills in scraping technologies like Selenium / Puppeteer."
+  },
+  {
+    "id": "ea90e216-0ec1-4e7a-9c05-20ddc44f912d",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Scripting Languages",
+    "description": "Skills in scripting languages, such as Python."
+  },
+  {
+    "id": "87b82968-c90e-445d-864b-3641c5b2db59",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "ELT / ETL Technologies",
+    "description": "Skills in ELT/ETL processes, such as DBT, Alteryx, Azure Synapse, Databricks (Spark), Matillion."
+  },
+  {
+    "id": "aa10af77-bffd-4b61-b842-6c0f7c5c934b",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Data Warehousing",
+    "description": "Skills related to data warehousing, such as Snowflake."
+  },
+  {
+    "id": "ab0fa0cb-cb1c-4bc8-a893-a7ca5566e672",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Machine Learning",
+    "description": "Skills in ML technologies like opencv, scikit-learn, tensorflow, neural networks."
+  },
+  {
+    "id": "bda6a3fa-a54a-4027-a2b6-cbd1339ba608",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Natural Language Processing",
+    "description": "Skills in NLP and sentimental analysis."
+  },
+  {
+    "id": "99b93841-6365-4d77-9e70-2b23164a007a",
+    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
+    "name": "Cloud Operations",
+    "description": "Skills in cloud operations, including Cloud Native (Containerization & Orchestration), Azure Logic Apps, Microsoft Flow, Serverless."
+  }
+]

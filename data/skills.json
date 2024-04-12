@@ -1,450 +1,562 @@
 [
   {
-    "id": "e4bb5e63-3a68-4d38-823b-d57c9d123d00",
+    "id": 1,
     "name": "Corporate governance",
     "description": "Understanding and applying the best practices for corporate governance.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f124997d-6a01-4783-8f94-008d4b3802c6"
+    "org_id": "89933",
+    "skill_category_id": 1
   },
   {
-    "id": "e907ea0b-47c0-4494-b222-f27f01a059af",
+    "id": 2,
     "name": "Strategic planning",
     "description": "Developing long-term strategies for the organization's growth.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f124997d-6a01-4783-8f94-008d4b3802c6"
+    "org_id": "89933",
+    "skill_category_id": 1
   },
   {
-    "id": "f68185bb-c161-4791-bb49-ce0972cb8ad6",
+    "id": 3,
     "name": "Visionary leadership",
     "description": "Providing direction and inspiring the organization to achieve its vision.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f124997d-6a01-4783-8f94-008d4b3802c6"
+    "org_id": "89933",
+    "skill_category_id": 1
   },
   {
-    "id": "2d53bd38-0289-4cfd-ab6d-de2382cafe65",
+    "id": 4,
     "name": "Financial acumen",
     "description": "Understanding and applying financial principles to drive business success.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f124997d-6a01-4783-8f94-008d4b3802c6"
+    "org_id": "89933",
+    "skill_category_id": 1
   },
   {
-    "id": "73700b29-275f-4b40-971f-6a416232c42e",
+    "id": 5,
     "name": "Network security",
     "description": "Protecting computer networks from intrusions and attacks.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "d9575a7a-e947-4925-a90e-e1a6545357f4"
+    "org_id": "89933",
+    "skill_category_id": 2
   },
   {
-    "id": "916dae69-0228-4180-ac26-65b2e005763c",
+    "id": 6,
     "name": "Information security",
     "description": "Ensuring the confidentiality, integrity, and availability of data.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "d9575a7a-e947-4925-a90e-e1a6545357f4"
+    "org_id": "89933",
+    "skill_category_id": 2
   },
   {
-    "id": "4ac0cbdf-ff5a-4477-aa86-1b689ddd7844",
+    "id": 7,
     "name": "Cybersecurity policies",
     "description": "Developing and enforcing policies to protect against cyber threats.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "d9575a7a-e947-4925-a90e-e1a6545357f4"
+    "org_id": "89933",
+    "skill_category_id": 2
   },
   {
-    "id": "a25e620c-a32d-4b3b-9ca9-bf7680c42e6c",
+    "id": 8,
     "name": "Incident response",
     "description": "Responding to and recovering from security breaches and incidents.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "d9575a7a-e947-4925-a90e-e1a6545357f4"
+    "org_id": "89933",
+    "skill_category_id": 2
   },
   {
-    "id": "08375b08-910e-4e84-97e3-acc4d1f247a1",
+    "id": 9,
     "name": "System design",
     "description": "Architecting complex software systems to meet business requirements.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "2f14acf4-fa40-44cb-b9ff-057908d71be9"
+    "org_id": "89933",
+    "skill_category_id": 3
   },
   {
-    "id": "809a312f-d227-4b76-8a4d-a462cdc87dc6",
+    "id": 10,
     "name": "Coding best practices",
     "description": "Maintaining high standards of coding and software development.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "2f14acf4-fa40-44cb-b9ff-057908d71be9"
+    "org_id": "89933",
+    "skill_category_id": 3
   },
   {
-    "id": "39beafc9-52da-478a-a971-90c86b1c6446",
+    "id": 11,
     "name": "Software testing",
     "description": "Designing and executing tests to ensure software quality.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "2f14acf4-fa40-44cb-b9ff-057908d71be9"
+    "org_id": "89933",
+    "skill_category_id": 3
   },
   {
-    "id": "53c4021d-b70c-496c-9a1e-957784bb2e97",
+    "id": 12,
     "name": "Continuous integration",
     "description": "Automating the integration of code changes from multiple contributors.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "2f14acf4-fa40-44cb-b9ff-057908d71be9"
+    "org_id": "89933",
+    "skill_category_id": 3
   },
   {
-    "id": "65807677-9022-4733-a4c0-45ed92e25616",
+    "id": 13,
     "name": "Resource allocation",
     "description": "Effectively distributing resources across projects to ensure efficient use.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "4d61a8a9-7086-4595-8a2b-70a51c3cfa62"
+    "org_id": "89933",
+    "skill_category_id": 4
   },
   {
-    "id": "48b184fd-2af6-43ba-9944-262465c92e55",
+    "id": 14,
     "name": "Risk assessment",
     "description": "Identifying potential risks in project planning and execution.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "4d61a8a9-7086-4595-8a2b-70a51c3cfa62"
+    "org_id": "89933",
+    "skill_category_id": 4
   },
   {
-    "id": "28a8183b-a763-4730-9cfc-5c45b7409a5c",
+    "id": 15,
     "name": "Project scheduling",
     "description": "Planning and organizing project tasks and timelines.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "4d61a8a9-7086-4595-8a2b-70a51c3cfa62"
+    "org_id": "89933",
+    "skill_category_id": 4
   },
   {
-    "id": "2904f07a-743c-46aa-a030-a50443eabd35",
+    "id": 16,
     "name": "Stakeholder management",
     "description": "Managing relationships with all project stakeholders.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "4d61a8a9-7086-4595-8a2b-70a51c3cfa62"
+    "org_id": "89933",
+    "skill_category_id": 4
   },
   {
-    "id": "0bc9e98e-c946-4355-b93c-60f4a97eefb3",
+    "id": 17,
     "name": "Data Analysis",
     "description": "Analyzing and interpreting complex datasets to extract meaningful insights.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f70a5b29-aa9d-49ba-8a6b-8afb2cdd2423"
+    "org_id": "89933",
+    "skill_category_id": 5
   },
   {
-    "id": "1b68131b-1dd3-4864-af49-28cc9ccf0650",
+    "id": 18,
     "name": "Machine Learning",
     "description": "Applying statistical models and algorithms to data to predict outcomes.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f70a5b29-aa9d-49ba-8a6b-8afb2cdd2423"
+    "org_id": "89933",
+    "skill_category_id": 5
   },
   {
-    "id": "172e218a-2669-4a03-95ca-97fe358d4d60",
+    "id": 19,
     "name": "Data visualization",
     "description": "Representing data in graphical format to aid understanding.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f70a5b29-aa9d-49ba-8a6b-8afb2cdd2423"
+    "org_id": "89933",
+    "skill_category_id": 5
   },
   {
-    "id": "9394d511-555f-4c7a-b9e1-d539ba3e22a6",
+    "id": 20,
     "name": "Big Data technologies",
     "description": "Utilizing technologies for processing large datasets.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "f70a5b29-aa9d-49ba-8a6b-8afb2cdd2423"
+    "org_id": "89933",
+    "skill_category_id": 5
   },
   {
-    "id": "17ec37e0-ea0f-4057-abee-10ba49a4556d",
+    "id": 21,
     "name": "Continuous Integration/Continuous Deployment",
     "description": "Implementing CI/CD pipelines for software delivery.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "0ebc2f86-7dd3-45ee-9b57-4d137ff84279"
+    "org_id": "89933",
+    "skill_category_id": 6
   },
   {
-    "id": "11438cb9-2581-4e76-8c2c-3ca8dccdd19b",
+    "id": 22,
     "name": "Automation scripting",
     "description": "Writing scripts to automate operational processes.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "0ebc2f86-7dd3-45ee-9b57-4d137ff84279"
+    "org_id": "89933",
+    "skill_category_id": 6
   },
   {
-    "id": "f85396c1-b56f-4943-b147-d54b5e7243d0",
+    "id": 23,
     "name": "Infrastructure as Code",
     "description": "Managing infrastructure through code to improve deployment speed.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "0ebc2f86-7dd3-45ee-9b57-4d137ff84279"
+    "org_id": "89933",
+    "skill_category_id": 6
   },
   {
-    "id": "6ae33482-b450-4102-a8c4-4176e4728b18",
+    "id": 24,
     "name": "Monitoring and logging",
     "description": "Tracking and analyzing system performance and activity.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "0ebc2f86-7dd3-45ee-9b57-4d137ff84279"
+    "org_id": "89933",
+    "skill_category_id": 6
   },
   {
-    "id": "24a0b850-7313-4ed2-9c3d-cac90393ae06",
+    "id": 25,
     "name": "Cloud Service Management",
     "description": "Managing cloud services and infrastructure.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "9c7052e1-6aae-4a4e-a37e-e78aabd94c0d"
+    "org_id": "89933",
+    "skill_category_id": 7
   },
   {
-    "id": "41c7b3cd-5c13-43cd-b3af-bc4e590250a3",
+    "id": 26,
     "name": "Cloud Migration Strategies",
     "description": "Planning and executing the migration of services to cloud environments.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "9c7052e1-6aae-4a4e-a37e-e78aabd94c0d"
+    "org_id": "89933",
+    "skill_category_id": 7
   },
   {
-    "id": "e8ed1e42-f953-4681-b247-a1ce925d966c",
+    "id": 27,
     "name": "Cloud Security",
     "description": "Ensuring the security of cloud-based applications and data.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "9c7052e1-6aae-4a4e-a37e-e78aabd94c0d"
+    "org_id": "89933",
+    "skill_category_id": 7
   },
   {
-    "id": "6a73a060-4525-4dee-a178-cfd65aa51324",
+    "id": 28,
     "name": "Cloud resource optimization",
     "description": "Managing cloud resources to optimize performance and cost.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "9c7052e1-6aae-4a4e-a37e-e78aabd94c0d"
+    "org_id": "89933",
+    "skill_category_id": 7
   },
   {
-    "id": "37bbecd5-ee86-4601-88eb-665737dec685",
+    "id": 29,
     "name": "Angular",
     "description": "Angular development.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "398ef53f-0cc2-4d2d-b9c7-517b2e6217ee"
+    "org_id": "89933",
+    "skill_category_id": 8
   },
   {
-    "id": "c589d2bd-b0ab-4663-833d-62d3bd55a4fd",
+    "id": 30,
     "name": "React",
     "description": "React development.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "398ef53f-0cc2-4d2d-b9c7-517b2e6217ee"
+    "org_id": "89933",
+    "skill_category_id": 8
   },
   {
-    "id": "5fd1c243-71c1-46e8-913a-ddbde611a0aa",
+    "id": 31,
     "name": "Vue",
     "description": "Vue.js development.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "398ef53f-0cc2-4d2d-b9c7-517b2e6217ee"
+    "org_id": "89933",
+    "skill_category_id": 8
   },
   {
-    "id": "3f997424-3e59-4792-a95f-09a3aaf90da5",
+    "id": 32,
     "name": "HTML/CSS",
     "description": "Web development using HTML and CSS.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "398ef53f-0cc2-4d2d-b9c7-517b2e6217ee"
+    "org_id": "89933",
+    "skill_category_id": 8
   },
   {
-    "id": "e5537c05-3405-4b35-82ac-7bf541046365",
+    "id": 33,
     "name": "Node.js",
     "description": "Backend development with Node.js.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "3e7cd981-0bc4-47f4-83cf-a564a3b377f2"
+    "org_id": "89933",
+    "skill_category_id": 9
   },
   {
-    "id": "7b1c00a7-0e85-4a4b-8f5b-c9b5e61c9acf",
+    "id": 34,
     "name": "Spring Boot",
     "description": "Application development with Java Spring Boot.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "3e7cd981-0bc4-47f4-83cf-a564a3b377f2"
+    "org_id": "89933",
+    "skill_category_id": 9
   },
   {
-    "id": "f72968a6-20fc-4d9b-8a23-dbcdb96635e5",
+    "id": 35,
     "name": ".NET",
     "description": ".NET framework development.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "3e7cd981-0bc4-47f4-83cf-a564a3b377f2"
+    "org_id": "89933",
+    "skill_category_id": 9
   },
   {
-    "id": "bedd209f-c0f3-43dc-ac13-00bddb69cb2c",
+    "id": 36,
     "name": "Laravel",
     "description": "Web development with Laravel.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "3e7cd981-0bc4-47f4-83cf-a564a3b377f2"
+    "org_id": "89933",
+    "skill_category_id": 9
   },
   {
-    "id": "a097a52d-945e-49c2-b84f-796899e5f9ef",
+    "id": 37,
     "name": "SQL",
     "description": "SQL query writing and optimization.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "381b77b9-b215-4444-8261-871c28f1dfd8"
+    "org_id": "89933",
+    "skill_category_id": 10
   },
   {
-    "id": "6854f72e-e65e-416f-a464-3f50b3bb5611",
+    "id": 38,
     "name": "NoSQL",
     "description": "NoSQL database management.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "381b77b9-b215-4444-8261-871c28f1dfd8"
+    "org_id": "89933",
+    "skill_category_id": 10
   },
   {
-    "id": "9805c042-1823-44b0-9836-9ba17d3e98d0",
+    "id": 39,
     "name": "DB Admin",
     "description": "Database administration.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "381b77b9-b215-4444-8261-871c28f1dfd8"
+    "org_id": "89933",
+    "skill_category_id": 10
   },
   {
-    "id": "5e657d8a-7436-433a-bf25-7d3aa293a338",
+    "id": 40,
     "name": "DB Design",
     "description": "Database design and normalization.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "381b77b9-b215-4444-8261-871c28f1dfd8"
+    "org_id": "89933",
+    "skill_category_id": 10
   },
   {
-    "id": "41a34296-8cc7-4c7d-a214-fb7eb76790f7",
+    "id": 41,
     "name": "Power BI",
     "description": "Business intelligence with Power BI.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "6d8a98b0-162e-4940-ac80-5f10a912caa3"
+    "org_id": "89933",
+    "skill_category_id": 11
   },
   {
-    "id": "48484276-eded-410e-ac7c-6cddf8dd1399",
+    "id": 42,
     "name": "Tableau",
     "description": "Data visualization with Tableau.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "6d8a98b0-162e-4940-ac80-5f10a912caa3"
+    "org_id": "89933",
+    "skill_category_id": 11
   },
   {
-    "id": "1ba57cb5-ca00-47cf-945f-6365032a1177",
+    "id": 43,
     "name": "Apache Superset",
     "description": "Business intelligence with Apache Superset.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "6d8a98b0-162e-4940-ac80-5f10a912caa3"
+    "org_id": "89933",
+    "skill_category_id": 11
   },
   {
-    "id": "29ba54e3-69b4-45b6-bd71-075c0855d585",
+    "id": 44,
     "name": "BI Tools",
     "description": "Using various business intelligence tools.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "6d8a98b0-162e-4940-ac80-5f10a912caa3"
+    "org_id": "89933",
+    "skill_category_id": 11
   },
   {
-    "id": "42740072-e04e-4daa-90b5-7bd437111214",
+    "id": 45,
     "name": "UX/UI Design",
     "description": "User experience and user interface design.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "16474c25-6ca9-46e8-b28c-9a30fb3ee081"
+    "org_id": "89933",
+    "skill_category_id": 12
   },
   {
-    "id": "fbe352e0-94f9-4c86-a1d3-fdcdea8c0f15",
+    "id": 46,
     "name": "Web Design",
     "description": "Designing responsive web layouts.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "16474c25-6ca9-46e8-b28c-9a30fb3ee081"
+    "org_id": "89933",
+    "skill_category_id": 12
   },
   {
-    "id": "7a76778d-f29d-4884-b198-e796ef8447da",
+    "id": 47,
     "name": "Graphic Design",
     "description": "Graphic design for web and print.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "16474c25-6ca9-46e8-b28c-9a30fb3ee081"
+    "org_id": "89933",
+    "skill_category_id": 12
   },
   {
-    "id": "d7c86029-499b-479f-bbad-6e04c6ba1702",
+    "id": 48,
     "name": "Interaction Design",
     "description": "Designing interactive user interfaces.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "16474c25-6ca9-46e8-b28c-9a30fb3ee081"
+    "org_id": "89933",
+    "skill_category_id": 12
   },
   {
-    "id": "010d47d5-867e-4008-99c5-7d218d0097a8",
+    "id": 49,
     "name": "Flutter",
     "description": "Mobile app development with Flutter.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ad2fcda8-7680-43fd-9bbd-988128acee6a"
+    "org_id": "89933",
+    "skill_category_id": 13
   },
   {
-    "id": "fc83370f-4f40-4787-9250-23fee1644244",
+    "id": 50,
     "name": "React Native",
     "description": "Building mobile apps with React Native.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ad2fcda8-7680-43fd-9bbd-988128acee6a"
+    "org_id": "89933",
+    "skill_category_id": 13
   },
   {
-    "id": "0ad42ae7-0afd-47a0-a4f0-e00453fadef9",
+    "id": 51,
     "name": "iOS",
     "description": "Developing apps for iOS.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ad2fcda8-7680-43fd-9bbd-988128acee6a"
+    "org_id": "89933",
+    "skill_category_id": 13
   },
   {
-    "id": "36f0de69-15f3-4cca-ab3e-1e3e958c9e1b",
+    "id": 52,
     "name": "Android",
     "description": "Developing apps for Android.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ad2fcda8-7680-43fd-9bbd-988128acee6a"
+    "org_id": "89933",
+    "skill_category_id": 13
   },
   {
-    "id": "6b883f4e-d076-4365-ae11-ea04eb1b246a",
+    "id": 53,
     "name": "Selenium",
     "description": "Web scraping with Selenium.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "5769d128-a655-4a1b-8854-e5c87c6f6249"
+    "org_id": "89933",
+    "skill_category_id": 14
   },
   {
-    "id": "260a7b0f-9711-49df-a120-f5f85912e541",
+    "id": 54,
     "name": "Puppeteer",
     "description": "Automated browser control with Puppeteer.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "5769d128-a655-4a1b-8854-e5c87c6f6249"
+    "org_id": "89933",
+    "skill_category_id": 14
   },
   {
-    "id": "6aa29db5-cf13-4382-824d-755bf3f67e7d",
+    "id": 55,
     "name": "Web Crawl",
     "description": "Crawling websites for data extraction.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "5769d128-a655-4a1b-8854-e5c87c6f6249"
+    "org_id": "89933",
+    "skill_category_id": 14
   },
   {
-    "id": "b64b0c0f-d306-4379-9561-acae648c3d89",
+    "id": 56,
     "name": "Data Scraping",
     "description": "Extracting data from web sources.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "5769d128-a655-4a1b-8854-e5c87c6f6249"
+    "org_id": "89933",
+    "skill_category_id": 14
   },
   {
-    "id": "263bc34d-835f-49ad-81c2-74a3796bd26f",
+    "id": 57,
     "name": "Python",
     "description": "Scripting with Python.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ea90e216-0ec1-4e7a-9c05-20ddc44f912d"
+    "org_id": "89933",
+    "skill_category_id": 15
   },
   {
-    "id": "77ab476c-5e4f-48de-b807-c42020e52913",
+    "id": 58,
     "name": "Bash",
     "description": "Shell scripting with Bash.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ea90e216-0ec1-4e7a-9c05-20ddc44f912d"
+    "org_id": "89933",
+    "skill_category_id": 15
   },
   {
-    "id": "b18b3a44-89b2-4614-87bf-96b4efaef8ba",
+    "id": 59,
     "name": "Ruby",
     "description": "Scripting with Ruby.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ea90e216-0ec1-4e7a-9c05-20ddc44f912d"
+    "org_id": "89933",
+    "skill_category_id": 15
   },
   {
-    "id": "01d442e5-5432-4f5a-84af-dc314e61efd5",
+    "id": 60,
     "name": "PowerShell",
     "description": "Automation with PowerShell.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "ea90e216-0ec1-4e7a-9c05-20ddc44f912d"
+    "org_id": "89933",
+    "skill_category_id": 15
   },
   {
-    "id": "eebe7a20-3614-42a8-be0f-266460081ca2",
+    "id": 61,
     "name": "DBT",
     "description": "Data transformation with DBT.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "87b82968-c90e-445d-864b-3641c5b2db59"
+    "org_id": "89933",
+    "skill_category_id": 16
   },
   {
-    "id": "612e552e-10f4-46b3-a50a-cbeae77c5450",
+    "id": 62,
     "name": "Alteryx",
     "description": "Data processing with Alteryx.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "87b82968-c90e-445d-864b-3641c5b2db59"
+    "org_id": "89933",
+    "skill_category_id": 16
   },
   {
-    "id": "4bb3f83e-2079-4e01-ba79-978c17e59733",
+    "id": 63,
     "name": "Azure Synapse",
     "description": "Data warehousing with Azure Synapse.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "87b82968-c90e-445d-864b-3641c5b2db59"
+    "org_id": "89933",
+    "skill_category_id": 16
   },
   {
-    "id": "73eed96e-85d5-4488-85b8-a09309d66bbd",
+    "id": 64,
     "name": "Databricks",
     "description": "Big data processing with Databricks.",
-    "org_id": "8fd51c1d-32f9-48e3-a473-cf57f29bea05",
-    "skill_category_id": "87b82968-c90e-445d-864b-3641c5b2db59"
+    "org_id": "89933",
+    "skill_category_id": 16
+  },
+  {
+    "id": 65,
+    "name": "ETL Development",
+    "description": "Building Extract, Transform, Load processes for data warehousing.",
+    "org_id": "89933",
+    "skill_category_id": 17
+  },
+  {
+    "id": 66,
+    "name": "Data Modeling",
+    "description": "Designing data models for efficient storage and retrieval.",
+    "org_id": "89933",
+    "skill_category_id": 17
+  },
+  {
+    "id": 67,
+    "name": "Data Integration",
+    "description": "Integrating data from various sources into a data warehouse.",
+    "org_id": "89933",
+    "skill_category_id": 17
+  },
+  {
+    "id": 68,
+    "name": "Data Warehouse Optimization",
+    "description": "Optimizing performance and storage in data warehousing systems.",
+    "org_id": "89933",
+    "skill_category_id": 17
+  },
+  {
+    "id": 69,
+    "name": "Deep Learning",
+    "description": "Applying neural networks for complex pattern recognition.",
+    "org_id": "89933",
+    "skill_category_id": 18
+  },
+  {
+    "id": 70,
+    "name": "Reinforcement Learning",
+    "description": "Developing AI agents that learn through interactions.",
+    "org_id": "89933",
+    "skill_category_id": 18
+  },
+  {
+    "id": 71,
+    "name": "Model Deployment",
+    "description": "Deploying machine learning models for real-world applications.",
+    "org_id": "89933",
+    "skill_category_id": 18
+  },
+  {
+    "id": 72,
+    "name": "Model Interpretability",
+    "description": "Understanding and explaining the decisions made by machine learning models.",
+    "org_id": "89933",
+    "skill_category_id": 18
+  },
+  {
+    "id": 73,
+    "name": "Named Entity Recognition (NER)",
+    "description": "Identifying and classifying named entities in text data.",
+    "org_id": "89933",
+    "skill_category_id": 19
+  },
+  {
+    "id": 74,
+    "name": "Text Classification",
+    "description": "Categorizing text into predefined classes or categories.",
+    "org_id": "89933",
+    "skill_category_id": 19
+  },
+  {
+    "id": 75,
+    "name": "Language Translation",
+    "description": "Translating text between different languages.",
+    "org_id": "89933",
+    "skill_category_id": 19
+  },
+  {
+    "id": 76,
+    "name": "Sentiment Analysis",
+    "description": "Analyzing text to determine sentiment or emotional tone.",
+    "org_id": "89933",
+    "skill_category_id": 19
+  },
+  {
+    "id": 77,
+    "name": "AWS Services Management",
+    "description": "Managing AWS services for cloud-based operations.",
+    "org_id": "89933",
+    "skill_category_id": 20
+  },
+  {
+    "id": 78,
+    "name": "Google Cloud Platform (GCP) Operations",
+    "description": "Handling cloud operations on the Google Cloud Platform.",
+    "org_id": "89933",
+    "skill_category_id": 20
+  },
+  {
+    "id": 79,
+    "name": "Kubernetes Administration",
+    "description": "Administering Kubernetes clusters for container orchestration.",
+    "org_id": "89933",
+    "skill_category_id": 20
+  },
+  {
+    "id": 80,
+    "name": "Cloud Cost Management",
+    "description": "Optimizing cloud usage and costs for efficient operations.",
+    "org_id": "89933",
+    "skill_category_id": 20
   }
 ]

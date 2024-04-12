@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Chief Information Officer",
+        "description": "Oversees the IT strategy and operations.",
+        "org_id": "89933",
+        "parent_id": null
+    },
+    {
+        "id": 2,
+        "name": "IT Manager",
+        "description": "Manages the IT department and its resources.",
+        "org_id": "89933",
+        "parent_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Development Manager",
+        "description": "Oversees software development teams and projects.",
+        "org_id": "89933",
+        "parent_id": 2
+    },
+    {
+        "id": 4,
+        "name": "Front-End Developer",
+        "description": "Develops the user interface of web applications.",
+        "org_id": "89933",
+        "parent_id": 3
+    },
+    {
+        "id": 5,
+        "name": "Back-End Developer",
+        "description": "Develops the server-side logic of applications.",
+        "org_id": "89933",
+        "parent_id": 3
+    },
+    {
+        "id": 6,
+        "name": "Database Administrator",
+        "description": "Manages the organization's database systems.",
+        "org_id": "89933",
+        "parent_id": 2
+    },
+    {
+        "id": 7,
+        "name": "Project Manager",
+        "description": "Manages projects from inception to completion.",
+        "org_id": "89933",
+        "parent_id": 2
+    },
+    {
+        "id": 8,
+        "name": "DevOps Engineer",
+        "description": "Improves operations between software development and IT operations.",
+        "org_id": "89933",
+        "parent_id": 7
+    },
+    {
+        "id": 9,
+        "name": "Network Administrator",
+        "description": "Manages and troubleshoots the organization's network infrastructure.",
+        "org_id": "89933",
+        "parent_id": 2
+    },
+    {
+        "id": 10,
+        "name": "Cybersecurity Manager",
+        "description": "Oversees cybersecurity policies and defenses.",
+        "org_id": "89933",
+        "parent_id": 1
+    },
+    {
+        "id": 11,
+        "name": "Cybersecurity Analyst",
+        "description": "Protects against cyber threats.",
+        "org_id": "89933",
+        "parent_id": 10
+    },
+    {
+        "id": 12,
+        "name": "Cloud Solutions Architect",
+        "description": "Designs and manages cloud solutions.",
+        "org_id": "89933",
+        "parent_id": 1
+    }
+]
